@@ -1,0 +1,16 @@
+{
+  "name": "webpack-dna-loader",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "organic-dna-loader": "^0.0.1",
+    "organic-dna-branches": "^0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Boris Filipov",
+  "license": "MIT"
+}
