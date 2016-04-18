@@ -1,17 +1,25 @@
 {
   "name": "webpack-dna-loader",
   "version": "0.0.1",
-  "description": "",
+  "description": "## usage",
   "main": "index.js",
   "dependencies": {
     "loader-utils": "^0.2.14",
     "organic-dna-branches": "^0.0.2",
-    "organic-dna-loader": "^0.0.1"
+    "organic-dna-loader": "^0.0.3"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Boris Filipov",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/outbounder/webpack-dna-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/outbounder/webpack-dna-loader/issues"
+  },
+  "homepage": "https://github.com/outbounder/webpack-dna-loader#readme"
 }
