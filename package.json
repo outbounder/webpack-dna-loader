@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "organic-dna-loader": "^0.0.1",
-    "organic-dna-branches": "^0.0.2"
+    "loader-utils": "^0.2.14",
+    "organic-dna-branches": "^0.0.2",
+    "organic-dna-loader": "^0.0.1"
   },
   "devDependencies": {},
   "scripts": {
