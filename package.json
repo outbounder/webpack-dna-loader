@@ -1,12 +1,12 @@
 {
   "name": "webpack-dna-loader",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "## usage",
   "main": "index.js",
   "dependencies": {
     "loader-utils": "^0.2.14",
     "organic-dna-branches": "^0.0.2",
-    "organic-dna-loader": "^0.0.3"
+    "organic-dna-loader": "^1.1.0"
   },
   "devDependencies": {},
   "scripts": {
